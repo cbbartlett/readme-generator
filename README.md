@@ -26,7 +26,9 @@ git clone https://github.com/cbbartlett/readme-generator
 ## Usage
 Run the file in the terminal with Node.js:
 
-`node index.js`
+```
+node index.js
+```
 
 ## License
 
