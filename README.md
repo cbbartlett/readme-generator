@@ -1,7 +1,13 @@
 
 # Module 9 - README Generator
 
-Generate a README.md from the terminal using Node.js!
+## Showcase
+
+[trimmed.webm](https://github.com/cbbartlett/readme-generator/assets/145170477/ddf0da14-b647-4898-aeee-0a581425c139)
+
+
+Generate a README.md from the terminal using Node.js and Inquirer.js!
+
 
 ## Table of Contents
 
@@ -11,12 +17,17 @@ Generate a README.md from the terminal using Node.js!
 
 ## Installation
 
-Clone the repo
+Clone the repository:
+
+```
+git clone https://github.com/cbbartlett/readme-generator
+```
 
 ## Usage
+Run the file in the terminal with Node.js:
 
 `node index.js`
 
 ## License
 
-Refer to LICENSE
+Refer to the LICENSE.
